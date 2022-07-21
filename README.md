@@ -7,17 +7,22 @@ Fully 3d-printed, no additional parts. Incorporates the built-in switch on the n
 ### Assembly guide
 
 1. Verify parts 
+
 ![Screenshot](parts.png)
 
 2. Install switch arm 
+
 ![Screenshot](arm.png)
 
 3. Insert board into the bottom housing. Make sure the built in switch falls into the housing pins
+
 ![Screenshot](bottom_housing.png)
 ![Screenshot](switch.png)
 
 4. Press-fit the top housing 
+
 ![Screenshot](top_housing.png)
 
 5. Insert the cover
+
 ![Screenshot](cover.png)
